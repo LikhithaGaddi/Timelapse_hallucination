@@ -29,7 +29,20 @@ In this module the style transfer is taking place as explained in the paper titl
 
   ```
   
-  
+
+Sample Input Image:
+
+![Input Image](https://github.com/LikhithaGaddi/Timelapse_hallucination/blob/main/Query_images/query1.jpg)  
+
+
+Output Video:
+
+![Output Video](https://github.com/LikhithaGaddi/Timelapse_hallucination/blob/main/output.mp4)
+
+Youtube Link: https://studio.youtube.com/video/_jG3rldMAqI/edit
+
+
+
 The project was submitted as a part for the requirement for the fullfilment of course work of Computer Vision in the spring session of IIIT Hyderabad in the year 2021. The project is the joint effort of the collective works of
 * Likhitha Gaddi
 * B Sindhu
