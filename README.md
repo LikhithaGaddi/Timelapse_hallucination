@@ -32,12 +32,12 @@ In this module the style transfer is taking place as explained in the paper titl
 
 Sample Input Image:
 
-![Input Image](https://github.com/LikhithaGaddi/Timelapse_hallucination/blob/main/Query_images/query1.jpg)  
+![Input Image](./Query_images/query1.jpg)  
 
 
 Output Video:
 
-![Output Video](https://github.com/LikhithaGaddi/Timelapse_hallucination/blob/main/output.mp4)
+![Output Video](./output.mp4)
 
 Youtube Link: https://www.youtube.com/watch?v=_jG3rldMAqI
 
