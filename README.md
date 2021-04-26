@@ -39,7 +39,7 @@ Output Video:
 
 ![Output Video](https://github.com/LikhithaGaddi/Timelapse_hallucination/blob/main/output.mp4)
 
-Youtube Link: https://studio.youtube.com/video/_jG3rldMAqI/edit
+Youtube Link: https://www.youtube.com/watch?v=_jG3rldMAqI
 
 
 
